@@ -1,0 +1,12 @@
+pip install duckdb
+pip install gensim
+pip install matplotlib
+pip install pandas
+pip install pillow
+pip install pyarrow
+
+
+python preparar_dados_poc.py
+python treinar_word2vec_poc.py
+python norm.py
+python gerar_resultados_poc.py
