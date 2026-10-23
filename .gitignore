@@ -1,3 +1,4 @@
 reddit_filtrado.parquet
 dados_por_ano_poc/*
 vetores_poc/*
+resultados_transformers/*
